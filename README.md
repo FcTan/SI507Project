@@ -7,5 +7,5 @@ Two frequently weblink for steam cashing are: https://developer.valvesoftware.co
 and https://partner.steamgames.com/doc/api
 
 Every steam user account has a corresponding user id. Using both API key and user id to fetch desired data.
-Be awared that each steam API keys have a limit of 100,000 calls per day. No permission after exceeding the limit that day.
+Be aware that each steam API keys have a limit of 100,000 calls per day. No permission after exceeding the limit that day.
 Only needs two simple packages, beautiful soup and requests, are needed to run my code. 
